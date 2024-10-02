@@ -1,3 +1,5 @@
+![PayloadGate Banner](docs/PAYLOADGATE.png)
+
 # PayloadGate
 
 **PayloadGate** é um dropper server projetado para facilitar a entrega de cargas (payloads) em ambientes de rede complexos. Este projeto foi criado para simular cenários de ataque em ambientes de laboratório para fins educacionais e de pesquisa em cibersegurança. A ideia é fornecer uma infraestrutura controlada para estudos de técnicas de evasão, análise de malware e entrega de payloads, garantindo que as implementações sejam seguras e isoladas do ambiente de produção.
